@@ -1,0 +1,16 @@
+{
+    "name": "Example tileset",
+    "source": "tileset.png",
+    "frameSize": 16,
+    "tiles": {
+        "grass": {
+            "bitmaskSize": 0,
+            "subtiles": [
+                {
+                    "frameIndex": 0,
+                    "bitmask": 85
+                }
+            ]
+        }
+    }
+}
